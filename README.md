@@ -28,6 +28,8 @@ After normalizing the initial state, the A* algorithm is used to find the minimu
 
 The code also provides the possible_moves function, which generates all possible next states from a given state. It considers both horizontal and vertical swaps of fruits within the baskets.
 
+**Output**
+
 ```
 Denormalized Initial State
 [('apple', 3), ('apple', 1), ('apple', 8), ('apple', 4), ('apple', 7), ('banana', 10), ('banana', 5), ('banana', 1), ('banana', 8), ('banana', 3)]
